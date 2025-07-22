@@ -1,4 +1,4 @@
-# brickpi-bluetooth
+# BrickPi and Spike Bluetooth
 
 A basic example of Bluetooth communication between a BrickPi, LEGO&reg; EV3, and LEGO&reg; Spike. 
 
