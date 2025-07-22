@@ -1,26 +1,26 @@
 # brickpi-bluetooth
 
-A basic example of Bluetooth communication using a BrickPi.
+A basic example of Bluetooth between a BrickPi, LEGO&reg; EV3, and LEGO&reg; Spike. 
 
-<<<<<<< HEAD
-```
-rsync -avz ~/Desktop/BrickMMO/brickpi-bluetooth/ robot@10.118.34.101:/home/robot/pimount/brickpi-bluetooth/
-```
-
-Upgrade to Python 3.9
+This repo has been moved to [bricknet-v2](https://github.com/BrickMMO/bricknet-v2).
 
 
+---
 
-python3.9 -m pip install --upgrade pip setuptools wheel
-=======
-# rsync -avz ~/Desktop/BrickMMO/brickpi-bluetooth/ pi@10.118.34.105:/home/pi/pimount/brickpi-bluetooth
+## Project Stack
 
-Install Raspbian for Robots from BrickPi
+This project uses [Python](https://www.python.org/).
 
-https://www.dexterindustries.com/howto/install-raspbian-for-robots-image-on-an-sd-card/
+<img src="https://console.codeadam.ca/api/image/python" width="60">
 
-```
-sudo apt update
-sudo apt full-upgrade
-```
->>>>>>> 45c1cacce106b2b89aca76cd7f3801d859ec135c
+---
+
+## Repo Resources
+
+- [BrickPi](https://www.dexterindustries.com/brickpi/)
+- [BrickNet](https://github.com/BrickMMO/bricknet-v2)
+
+<br>
+<a href="https://codeadam.ca">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
+</a>
