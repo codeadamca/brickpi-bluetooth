@@ -1,8 +1,8 @@
 # brickpi-bluetooth
 
-A basic example of Bluetooth between a BrickPi, LEGO&reg; EV3, and LEGO&reg; Spike. 
+A basic example of Bluetooth communication between a BrickPi, LEGO&reg; EV3, and LEGO&reg; Spike. 
 
-This repo has been moved to [bricknet-v2](https://github.com/BrickMMO/bricknet-v2).
+This project has been continued at bricknet-v2.
 
 
 ---
